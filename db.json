@@ -1,10 +1,5 @@
 {
   "posts":[
-     {"post_id:"uuidp_1","user":"uuid_1","hobbie":{"id":18,"name":"Drama"},"city":"sevilla","postal_code":"41292","description":"quiero encontrar gente para crear un teatro alternativo callejero","likes":1,"comments":[{"user_id":"uuid_2","comment":"voy los lunes","release_date":"2020-10-12"},{"user_id":"uuid_3","comment":"me encantaria unirme","release_date":"2020-10-13"}],"release_date":"2020-09-04", "starting_date":"2020-10-10","day_time":"all day","week_time":["monday","friday"]},
-     {"post_id:"uuidp_2","user":"uuid_3","hobbie":{"id":19,"name":"Climbing"},"city":"sevilla","postal_code":"13412","description":"quero encontrar gente para escalar en sevilla los fines de semana","likes":11,"comments":[{"user_id":"uuid_2","comment":"yo los fines de semanaa puedo","release_date":"2020-10-12"},{"user_id":"uuid_4","comment":"voy todos los dias","release_date":"2020-10-13"}],"release_date":"2020-09-04", "starting_date":"2020-10-10","day_time":"afternoon","week_time":["wednesday"]}
-     ],
-  "users":[
-     {"user_id":"uuid_1","user_name":"chanchan","user_email":"chantalisima@gmail.com","pass":"wiegrn4n4"},
-    {"user_id":"uuid_3","user_name":"juan","user_email":"juanjuanin@gmail.com","pass":"efjq3ofr"}
-  ]
+    {"post_id:"2","user":"3","hobbie":{"id":19,"name":"Climbing"},"city":"sevilla","postal_code":"13412","description":"quero encontrar gente para escalar en sevilla los fines de semana","likes":11,"comments":[{"user_id":"uuid_2","comment":"yo los fines de semanaa puedo","release_date":"2020-10-12"},{"user_id":"uuid_4","comment":"voy todos los dias","release_date":"2020-10-13"}],"release_date":"2020-09-04", "starting_date":"2020-10-10","day_time":"afternoon","week_time":["wednesday"]}
+    ]
 }
