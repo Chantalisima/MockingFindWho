@@ -1,5 +1,5 @@
 {
   "posts":[
-    {"post_id:"2","user":"3","hobbie":{"id":19,"name":"Climbing"},"city":"sevilla","postal_code":"13412","description":"quero encontrar gente para escalar en sevilla los fines de semana","likes":11,"comments":[{"user_id":"uuid_2","comment":"yo los fines de semanaa puedo","release_date":"2020-10-12"},{"user_id":"uuid_4","comment":"voy todos los dias","release_date":"2020-10-13"}],"release_date":"2020-09-04", "starting_date":"2020-10-10","day_time":"afternoon","week_time":["wednesday"]}
+    {"post_id":"2uea","user":"3","hobbie":{"id":19,"name":"Climbing"},"city":"sevilla","postal_code":"13412","description":"quero encontrar gente para escalar en sevilla los fines de semana","likes":11,"comments":[{"user_id":"uuid_2","comment":"yo los fines de semanaa puedo","release_date":"2020-10-12"},{"user_id":"uuid_4","comment":"voy todos los dias","release_date":"2020-10-13"}],"release_date":"2020-09-04", "starting_date":"2020-10-10","day_time":"afternoon","week_time":["wednesday"]}
     ]
 }
