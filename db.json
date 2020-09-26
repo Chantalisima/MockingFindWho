@@ -7,8 +7,8 @@
     { "user_id": "uuid_35", "body": "some comment", "comment_id": 1 },
     { "user_id": "uuid_3", "body": "some comment", "comment_id": 3 }
     ],
-  "users": [
-  {"user_id":"uuid_3","email":"chan","password":"pass","name":"chanchan"}
-  ]
+  "user":[
+  {"email":"chan","password":"pass"}
+    ]
   
 }
