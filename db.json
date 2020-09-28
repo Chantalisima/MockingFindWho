@@ -7,5 +7,5 @@
     { "user_id": "uuid_35", "body": "some comment", "comment_id": 1 },
     { "user_id": "uuid_3", "body": "some comment", "comment_id": 3 }
     ],
-  "user": [{"user_id":1,"name":"chantal","lastname":"de leste","email":"chan","birthdate":"14-12-1992","location":"Sevilla"}]
+  "user": {"user_id":1,"name":"chantal","lastname":"de leste","email":"chan","birthdate":"14-12-1992","location":"Sevilla"}
   }
